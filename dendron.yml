@@ -11,6 +11,7 @@ site:
     siteHierarchies:
         - root
     siteRootDir: docs
+    assetsPrefix: digital-garden-dendron
     siteUrl: https://chrisdeuda.github.io
     usePrettyRefs: true
     title: Dendron
