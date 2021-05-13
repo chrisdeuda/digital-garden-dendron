@@ -1,9 +1,9 @@
 ---
-id: 87d88430-9979-426c-99af-551f759684fa
+id: dc64028a-c6c4-4226-9e9a-13e1bb628ad3
 title: Journal
 desc: ''
-updated: 1620909855235
-created: 1620909855235
+updated: 1620902559788
+created: 1620902559788
 stub: true
 ---
 
